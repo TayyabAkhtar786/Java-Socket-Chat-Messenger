@@ -43,7 +43,7 @@ A feature-rich, real-time chat application built with Java Sockets implementing 
 
 ### HOW to use
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Java-Socket-Chat-Messenger.git
+git clone https://github.com/TayyabAkhtar786/Java-Socket-Chat-Messenger.git
 cd Java-Socket-Chat-Messenger
 
 # 2. Compile the project
