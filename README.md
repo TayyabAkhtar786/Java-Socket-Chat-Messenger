@@ -47,18 +47,12 @@ git clone https://github.com/TayyabAkhtar786/Java-Socket-Chat-Messenger.git
 cd Java-Socket-Chat-Messenger
 
 # 2. Compile the project
-scripts/compile.bat  # Windows
-# OR
 javac -d bin src/main/java/com/chatapp/**/*.java
 
 # 3. Run the server
-scripts/run-server.bat  # Windows
-# OR
 java -cp "bin;lib/*" com.chatapp.server.ChatServer
 
 # 4. Run the client (in new terminal)
-scripts/run-client.bat  # Windows
-# OR
 java -cp "bin;lib/*" com.chatapp.client.ChatClient
 
 ## 🏗️ Architecture Overview
